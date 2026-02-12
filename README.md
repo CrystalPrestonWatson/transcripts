@@ -51,7 +51,9 @@ This repository contains transcripts for selected YouTube videos from my channel
 
 ### 6. CrystalCon 2026 Sessions
 
-- **Transcript file:**  
-  [`getting-started-with-xcode-for-mobile-accessibility-testing.md`](getting-started-with-xcode-for-mobile-accessibility-testing.md)
+- **Transcript files:**  
+  [`opening-the-box-accessibility-ai-and-responsibility-in-an-emergent-tech-era.md`](opening-the-box-accessibility-ai-and-responsibility-in-an-emergent-tech-era.md)  
+  [`ai-me-and-accessibility-what-i-need-you-to-know.md`](ai-me-and-accessibility-what-i-need-you-to-know.md)  
+  [`the-probability-of-exclusion-why-ai-cannot-feel-your-interface.md`](the-probability-of-exclusion-why-ai-cannot-feel-your-interface.md)
 
 ---
