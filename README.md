@@ -9,7 +9,8 @@ This repository contains transcripts for selected YouTube videos from my channel
 2. [Image Accessibility on Bluesky](#2-image-accessibility-on-bluesky)  
 3. [Assistive Technology and the Campaign Trail](#3-assistive-technology-and-the-campaign-trail)  
 4. [Automation and Accessibility: What You Need to Know](#4-automation-and-accessibility-what-you-need-to-know)  
-5. [Getting Started with Xcode for Mobile Accessibility Testing](#5-getting-started-with-xcode-for-mobile-accessibility-testing)  
+5. [Getting Started with Xcode for Mobile Accessibility Testing](#5-getting-started-with-xcode-for-mobile-accessibility-testing)
+6. [CrystalCon 2026 Sessions](#6)
 
 ---
 
@@ -48,3 +49,9 @@ This repository contains transcripts for selected YouTube videos from my channel
 
 ---
 
+### 6. CrystalCon 2026 Sessions
+
+- **Transcript file:**  
+  [`getting-started-with-xcode-for-mobile-accessibility-testing.md`](getting-started-with-xcode-for-mobile-accessibility-testing.md)
+
+---
